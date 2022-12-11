@@ -1,7 +1,7 @@
 import moviepy.editor
 from pathlib import Path
 
-video_file = Path('maruv.mp4')
+video_file = Path('minelli.mp4')
 
 video = moviepy.editor.VideoFileClip(f'{video_file}')
 audio = video.audio

@@ -131,3 +131,7 @@ dmypy.json
 venv
 *.mp3
 *.mp4
+.fseventsd/00000000012f018f
+.fseventsd/00000000012f018e
+.fseventsd/fseventsd-uuid
+.fseventsd
