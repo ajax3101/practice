@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# My project
+venv
+*.mp3
+*.mp4
